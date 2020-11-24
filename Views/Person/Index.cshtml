@@ -1,0 +1,62 @@
+﻿@model LabGroup_Task.Models.Person
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<hr />
+<div class="row">
+    <div class="col-md-12">
+        <form asp-action="Index">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-2 m-auto">
+                        <label asp-for="FirstName" class="control-label"></label>
+                    </div>
+                    <div class="col-md-2">
+                        <input id="FirstNameInput" asp-for="FirstName" class="form-control" />
+                    </div>
+                    <div class="col-md-8">
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-2 m-auto">
+                        <label asp-for="LastName" class="control-label"></label>
+                    </div>
+                    <div class="col-md-2">
+                        <input id="LastNameInput" asp-for="LastName" class="form-control" />
+                    </div>
+                    <div class="col-md-8">
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="row">
+                    <div class="col-md-2 m-auto">
+                        <label asp-for="TaxFileNumber" class="control-label"></label>
+                    </div>
+                    <div class="col-md-2">
+                        <input id="TaxFileInput" asp-for="TaxFileNumber" class="form-control" onkeydown="filterDigits(event); RemoveValidationSuccess();" onchange="RemoveValidCheck(this);  DisableValidateButton(this);" />
+                    </div>
+                    <div id="TaxFileValidateButton" class="col-md-2 btn btn-primary disabled" style="pointer-events:none" onclick="ValidateTFN()">
+                        <span id="TaxFileValidateText">Validate</span>
+                        <span id="TaxFileValidateSpinner" class="spinner" />
+                    </div>
+                    <div class="col-md-6 text-center m-auto">
+                        <span id="TaxFileNumberValidationMessage" asp-validation-for="TaxFileNumber" class="text-danger"></span>
+                    </div>
+                </div>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

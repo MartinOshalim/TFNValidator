@@ -1,0 +1,773 @@
+2020-11-22 19:43:05.5657||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:43:38.6906||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 19:43:53.4745||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 19:43:53.4745||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 19:43:53.4858||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 19:43:59.7160||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:44:14.8608||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 19:44:20.8739||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 19:44:25.2692||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 19:44:34.2311||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 19:44:34.9735||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 19:44:36.6390||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 19:44:36.6390||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 19:44:36.6459||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 19:51:28.1205||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:51:44.2248||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 19:51:47.1580||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 19:51:47.1580||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 111111111 
+2020-11-22 19:51:47.1580||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 19:51:59.9922||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:52:16.1543||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6481 
+2020-11-22 19:52:16.1543||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4818 
+2020-11-22 19:52:16.1654||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8188 
+2020-11-22 19:52:16.1654||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1884 
+2020-11-22 19:52:16.1730||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8848 
+2020-11-22 19:52:16.1730||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8480 
+2020-11-22 19:52:16.1730||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 19:52:16.1730||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 648188480 
+2020-11-22 19:52:16.1730||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 19:52:29.2671||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:52:39.8497||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6481 
+2020-11-22 19:52:45.5048||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4818 
+2020-11-22 19:52:49.1051||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8188 
+2020-11-22 19:53:55.3411||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:53:56.5631||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 19:53:56.5654||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 19:53:56.5654||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 19:53:56.5654||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 19:54:05.7774||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:54:06.8330||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6481 
+2020-11-22 19:54:06.8330||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4818 
+2020-11-22 19:54:06.8330||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8188 
+2020-11-22 19:54:06.8330||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1884 
+2020-11-22 19:54:06.8330||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8848 
+2020-11-22 19:54:06.8330||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8480 
+2020-11-22 19:54:06.8450||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 19:54:06.8450||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 648188480 
+2020-11-22 19:54:06.8450||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 19:54:20.0304||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:54:24.9290||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6481 
+2020-11-22 19:57:25.0709||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:57:26.6947||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 19:58:51.5174||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 19:58:51.5174||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 19:58:51.5174||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 19:58:56.8776||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:58:58.6634||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 19:58:59.1685||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 19:58:59.1785||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 19:58:59.1785||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 19:59:04.5121||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:59:06.0565||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 19:59:06.8230||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1112 
+2020-11-22 19:59:17.6231||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 19:59:17.6284||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111112 
+2020-11-22 19:59:17.6284||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 19:59:29.6260||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:59:31.9378||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6481 
+2020-11-22 19:59:32.6206||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4818 
+2020-11-22 19:59:33.1786||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8188 
+2020-11-22 19:59:33.7822||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1884 
+2020-11-22 19:59:35.5648||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8848 
+2020-11-22 19:59:35.5648||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8480 
+2020-11-22 19:59:35.5648||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 19:59:35.5648||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 648188480 
+2020-11-22 19:59:35.5793||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 19:59:40.2923||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 19:59:42.7739||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6481 
+2020-11-22 19:59:43.7959||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4818 
+2020-11-22 19:59:45.0061||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8188 
+2020-11-22 20:00:46.9112||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:00:48.5843||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 20:00:48.5963||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:00:48.5963||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 20:00:48.5963||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 20:01:00.6757||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:01:05.1541||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6481 
+2020-11-22 20:01:05.1635||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4818 
+2020-11-22 20:01:05.1635||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8188 
+2020-11-22 20:01:05.1635||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1884 
+2020-11-22 20:01:05.1736||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8848 
+2020-11-22 20:01:05.1736||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8480 
+2020-11-22 20:01:05.1736||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:01:05.1736||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 648188480 
+2020-11-22 20:01:05.1736||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 20:01:18.4271||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:01:35.8488||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6481 
+2020-11-22 20:01:38.6005||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4818 
+2020-11-22 20:01:41.7199||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8188 
+2020-11-22 20:01:47.0044||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 20:02:03.7243||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:02:05.2415||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8188 
+2020-11-22 20:02:06.9677||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1884 
+2020-11-22 20:02:06.9739||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8848 
+2020-11-22 20:02:07.4438||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 20:02:12.3899||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:02:25.1305||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6181 
+2020-11-22 20:02:37.3624||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1811 
+2020-11-22 20:02:37.3624||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8118 
+2020-11-22 20:02:37.3624||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1184 
+2020-11-22 20:02:37.3773||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1848 
+2020-11-22 20:02:37.3773||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8481 
+2020-11-22 20:02:37.3773||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:02:37.3773||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 618118481 
+2020-11-22 20:02:37.3773||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 20:41:08.9210||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:41:17.6339||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 20:41:17.6339||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:41:17.6429||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 20:41:17.6429||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 20:41:22.2314||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:41:23.0911||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 20:41:23.0911||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:41:23.0911||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 20:41:23.0911||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 20:41:36.6015||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:41:42.4741||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6481 
+2020-11-22 20:41:42.4741||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4818 
+2020-11-22 20:41:42.4741||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8188 
+2020-11-22 20:41:42.4741||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1884 
+2020-11-22 20:41:42.4741||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8848 
+2020-11-22 20:41:42.4741||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8480 
+2020-11-22 20:41:42.4741||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:41:42.4741||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 648188480 
+2020-11-22 20:41:42.4741||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 20:41:47.9974||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:41:49.4802||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6481 
+2020-11-22 20:41:49.4802||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4818 
+2020-11-22 20:41:49.4880||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8188 
+2020-11-22 20:41:51.4957||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 20:46:52.9142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:46:54.3985||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 20:46:54.3985||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:46:54.4108||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 20:46:54.4108||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 20:47:12.5607||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:47:19.1269||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6481 
+2020-11-22 20:47:19.1269||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4818 
+2020-11-22 20:47:19.1269||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8188 
+2020-11-22 20:47:19.1269||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1885 
+2020-11-22 20:47:19.1269||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8852 
+2020-11-22 20:47:19.1269||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8527 
+2020-11-22 20:47:19.1269||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:47:19.1269||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 648188527 
+2020-11-22 20:47:19.1269||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 20:47:29.2205||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:47:30.4145||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6481 
+2020-11-22 20:47:30.4145||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4818 
+2020-11-22 20:47:30.4145||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8188 
+2020-11-22 20:47:31.1708||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 20:48:03.7798||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:48:05.0555||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6481 
+2020-11-22 20:48:05.0555||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4818 
+2020-11-22 20:48:05.0555||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8188 
+2020-11-22 20:48:05.8013||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 20:48:47.2571||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:48:48.4824||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6481 
+2020-11-22 20:48:48.4921||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4818 
+2020-11-22 20:48:48.4921||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8188 
+2020-11-22 20:48:49.1364||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 20:49:28.2957||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:49:29.1313||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1234 
+2020-11-22 20:49:29.1313||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2345 
+2020-11-22 20:49:29.1313||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3456 
+2020-11-22 20:49:29.1427||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4567 
+2020-11-22 20:49:29.1427||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5678 
+2020-11-22 20:49:29.1427||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:49:29.1427||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 12345678 
+2020-11-22 20:49:29.1427||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 20:49:41.5746||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:49:42.3186||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1234 
+2020-11-22 20:49:42.3186||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2345 
+2020-11-22 20:49:42.3186||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3456 
+2020-11-22 20:49:42.7349||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 20:53:08.9986||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:53:09.7189||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1234 
+2020-11-22 20:53:09.7247||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2346 
+2020-11-22 20:53:09.7247||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3467 
+2020-11-22 20:53:09.7356||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4678 
+2020-11-22 20:53:09.7356||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6788 
+2020-11-22 20:53:09.7356||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:53:09.7356||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 12346788 
+2020-11-22 20:53:09.7356||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 20:53:21.1500||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:53:21.9199||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1234 
+2020-11-22 20:53:21.9199||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2346 
+2020-11-22 20:53:21.9199||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3467 
+2020-11-22 20:53:22.9544||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 20:53:41.6232||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:53:42.8785||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1234 
+2020-11-22 20:53:42.8785||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2346 
+2020-11-22 20:53:42.8785||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3467 
+2020-11-22 20:53:45.4807||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 20:55:38.7281||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:55:39.9000||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1234 
+2020-11-22 20:55:39.9000||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2345 
+2020-11-22 20:55:39.9078||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3456 
+2020-11-22 20:55:39.9078||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4567 
+2020-11-22 20:55:39.9078||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5678 
+2020-11-22 20:55:39.9078||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6789 
+2020-11-22 20:55:39.9078||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 20:55:39.9078||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 123456789 
+2020-11-22 20:55:39.9078||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 20:55:46.8426||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 20:55:47.9380||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1234 
+2020-11-22 20:55:47.9396||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2345 
+2020-11-22 20:55:47.9396||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3456 
+2020-11-22 20:55:50.5099||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:04:41.1857||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:04:41.2172||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1234 
+2020-11-22 21:04:41.2214||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2345 
+2020-11-22 21:04:41.2214||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3456 
+2020-11-22 21:04:41.2214||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4567 
+2020-11-22 21:04:41.2214||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5678 
+2020-11-22 21:04:41.2214||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:07:23.4700||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:07:23.5022||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1234 
+2020-11-22 21:07:23.5022||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2345 
+2020-11-22 21:07:23.5022||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3456 
+2020-11-22 21:07:23.5022||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4567 
+2020-11-22 21:07:23.5022||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5678 
+2020-11-22 21:07:23.5022||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6789 
+2020-11-22 21:07:23.5174||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:08:05.6382||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:08:05.6685||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1234 
+2020-11-22 21:08:05.6729||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2345 
+2020-11-22 21:08:05.6729||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3456 
+2020-11-22 21:08:05.6729||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4567 
+2020-11-22 21:08:05.6729||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5678 
+2020-11-22 21:08:05.6729||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:09:25.1315||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:09:25.1612||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1234 
+2020-11-22 21:09:25.1612||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2346 
+2020-11-22 21:09:25.1612||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3467 
+2020-11-22 21:09:25.1730||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4678 
+2020-11-22 21:09:25.1730||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6783 
+2020-11-22 21:09:25.1730||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:13:46.2308||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:13:46.2614||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1234 
+2020-11-22 21:13:46.2614||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2345 
+2020-11-22 21:13:46.2683||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3456 
+2020-11-22 21:13:46.2683||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4567 
+2020-11-22 21:13:46.2683||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5678 
+2020-11-22 21:13:46.2683||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:14:37.1067||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:14:37.1436||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1234 
+2020-11-22 21:14:37.1436||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2345 
+2020-11-22 21:14:37.1436||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3456 
+2020-11-22 21:14:37.1436||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4567 
+2020-11-22 21:14:37.1436||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5678 
+2020-11-22 21:14:37.1585||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:14:49.4635||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:14:49.4635||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1234 
+2020-11-22 21:14:49.4635||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2345 
+2020-11-22 21:14:49.4635||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3456 
+2020-11-22 21:14:51.1987||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:15:13.1365||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:15:13.1709||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2342 
+2020-11-22 21:15:13.1759||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3423 
+2020-11-22 21:15:13.1759||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4234 
+2020-11-22 21:15:13.1759||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:15:25.6849||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:15:25.6849||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2342 
+2020-11-22 21:15:25.6849||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3423 
+2020-11-22 21:15:25.6890||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4234 
+2020-11-22 21:15:29.9106||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:16:36.7429||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:16:36.7776||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6546 
+2020-11-22 21:16:36.7776||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5464 
+2020-11-22 21:16:36.7849||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4645 
+2020-11-22 21:16:36.7849||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6456 
+2020-11-22 21:16:36.7849||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4565 
+2020-11-22 21:16:36.7849||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5654 
+2020-11-22 21:16:36.7849||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:16:37.3929||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:16:37.3929||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6546 
+2020-11-22 21:16:37.3929||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5464 
+2020-11-22 21:16:37.3929||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4645 
+2020-11-22 21:16:37.3929||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:17:30.0926||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:17:30.1250||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9876 
+2020-11-22 21:17:30.1300||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8761 
+2020-11-22 21:17:30.1300||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 7613 
+2020-11-22 21:17:30.1300||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6131 
+2020-11-22 21:17:30.1300||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1311 
+2020-11-22 21:17:30.1300||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3119 
+2020-11-22 21:17:30.1430||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:17:41.1382||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:17:41.1382||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9876 
+2020-11-22 21:17:41.1416||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8761 
+2020-11-22 21:17:41.1416||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 7613 
+2020-11-22 21:17:41.1416||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:18:34.9286||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:18:34.9286||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9876 
+2020-11-22 21:18:34.9398||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8761 
+2020-11-22 21:18:34.9398||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 7613 
+2020-11-22 21:18:34.9398||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:19:47.9065||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:19:47.9095||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3119 
+2020-11-22 21:19:47.9095||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9831 
+2020-11-22 21:19:47.9095||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8311 
+2020-11-22 21:19:47.9095||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1191 
+2020-11-22 21:19:47.9228||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1912 
+2020-11-22 21:19:47.9228||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9123 
+2020-11-22 21:19:47.9228||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:19:53.3133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:19:53.3133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9831 
+2020-11-22 21:19:53.3133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8311 
+2020-11-22 21:19:53.3133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3119 
+2020-11-22 21:19:53.3133||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:21:11.3774||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:21:11.3774||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1231 
+2020-11-22 21:21:11.3774||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2312 
+2020-11-22 21:21:11.3774||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3123 
+2020-11-22 21:21:11.3774||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3124 
+2020-11-22 21:21:11.3774||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:21:16.3722||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:21:16.3788||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1231 
+2020-11-22 21:21:16.3788||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2312 
+2020-11-22 21:21:16.3788||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3123 
+2020-11-22 21:21:16.3788||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:21:51.2111||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:21:51.2111||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1231 
+2020-11-22 21:21:51.2111||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2312 
+2020-11-22 21:21:51.2111||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3123 
+2020-11-22 21:21:51.2111||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:22:05.4766||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:22:05.4766||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4843 
+2020-11-22 21:22:05.4766||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8432 
+2020-11-22 21:22:05.4766||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4321 
+2020-11-22 21:22:05.4766||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3216 
+2020-11-22 21:22:05.4766||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2165 
+2020-11-22 21:22:05.4766||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1654 
+2020-11-22 21:22:05.4766||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:22:11.2925||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:22:11.2925||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4843 
+2020-11-22 21:22:11.2925||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8432 
+2020-11-22 21:22:11.2925||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4321 
+2020-11-22 21:22:11.2925||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:44:30.8136||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:44:30.8434||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1233 
+2020-11-22 21:44:30.8490||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2331 
+2020-11-22 21:44:30.8490||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3312 
+2020-11-22 21:44:30.8490||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3124 
+2020-11-22 21:44:30.8490||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1245 
+2020-11-22 21:44:30.8490||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2455 
+2020-11-22 21:44:30.8490||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:45:10.2387||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:45:10.2387||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9876 
+2020-11-22 21:45:10.2387||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8763 
+2020-11-22 21:45:10.2387||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 7635 
+2020-11-22 21:45:10.2387||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6351 
+2020-11-22 21:45:10.2387||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3514 
+2020-11-22 21:45:10.2387||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5146 
+2020-11-22 21:45:10.2387||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:45:29.8645||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:45:29.8954||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9846 
+2020-11-22 21:45:29.8954||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8465 
+2020-11-22 21:45:29.8954||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4651 
+2020-11-22 21:45:29.8954||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6513 
+2020-11-22 21:45:29.8954||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5132 
+2020-11-22 21:45:29.9084||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1321 
+2020-11-22 21:45:29.9084||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:45:38.5762||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:45:38.5762||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9846 
+2020-11-22 21:45:38.5804||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8465 
+2020-11-22 21:45:38.5804||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4651 
+2020-11-22 21:45:38.5804||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:45:59.9257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:45:59.9257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 21:45:59.9257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:46:04.8637||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:46:04.8637||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 21:46:04.8784||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1112 
+2020-11-22 21:46:04.8784||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:46:10.7512||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:46:10.7512||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9873 
+2020-11-22 21:46:10.7512||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8732 
+2020-11-22 21:46:10.7512||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 7321 
+2020-11-22 21:46:10.7512||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3219 
+2020-11-22 21:46:10.7512||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2198 
+2020-11-22 21:46:10.7512||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1984 
+2020-11-22 21:46:10.7512||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:46:15.8580||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:46:15.8580||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9873 
+2020-11-22 21:46:15.8608||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8732 
+2020-11-22 21:46:15.8608||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 7321 
+2020-11-22 21:46:15.8608||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:46:36.8079||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:46:36.8079||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9873 
+2020-11-22 21:46:36.8079||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8732 
+2020-11-22 21:46:36.8079||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 7321 
+2020-11-22 21:46:36.8079||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:49:02.3754||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:49:02.4062||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6541 
+2020-11-22 21:49:02.4106||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5413 
+2020-11-22 21:49:02.4106||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4132 
+2020-11-22 21:49:02.4106||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1321 
+2020-11-22 21:49:02.4106||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3216 
+2020-11-22 21:49:02.4106||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2161 
+2020-11-22 21:49:02.4106||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:49:07.8276||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:49:07.8309||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6541 
+2020-11-22 21:49:07.8309||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5413 
+2020-11-22 21:49:07.8309||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4132 
+2020-11-22 21:49:07.8309||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:49:20.2992||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:49:20.2992||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9999 
+2020-11-22 21:49:20.2992||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:49:25.3410||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:49:25.3459||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9999 
+2020-11-22 21:49:25.3459||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9998 
+2020-11-22 21:49:25.3459||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9989 
+2020-11-22 21:49:25.3459||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:49:29.7304||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:49:29.7368||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9999 
+2020-11-22 21:49:29.7368||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9992 
+2020-11-22 21:49:29.7368||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9922 
+2020-11-22 21:49:29.7368||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:51:25.3372||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:51:25.3699||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 21:51:29.7254||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:51:29.7254||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 111111111 
+2020-11-22 21:51:29.7254||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 21:51:34.5395||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:51:34.5395||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 21:51:34.5395||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:51:34.5395||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 21:51:34.5395||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 21:51:40.3341||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:51:40.3341||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9746 
+2020-11-22 21:51:40.3341||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 7465 
+2020-11-22 21:51:40.3341||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4651 
+2020-11-22 21:51:40.3341||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6516 
+2020-11-22 21:51:40.3341||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5161 
+2020-11-22 21:51:40.3341||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1619 
+2020-11-22 21:51:40.3341||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:51:40.3341||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 974651619 
+2020-11-22 21:51:40.3341||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 21:51:44.5392||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:51:44.5392||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9746 
+2020-11-22 21:51:44.5392||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 7465 
+2020-11-22 21:51:44.5392||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4651 
+2020-11-22 21:51:44.5392||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:53:29.4552||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:53:29.4552||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9746 
+2020-11-22 21:53:29.4552||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 7465 
+2020-11-22 21:53:29.4552||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4651 
+2020-11-22 21:53:29.4552||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:53:38.2051||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:53:38.2051||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9746 
+2020-11-22 21:53:38.2051||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 7465 
+2020-11-22 21:53:38.2051||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4651 
+2020-11-22 21:53:38.2051||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:54:58.6561||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:54:58.6577||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9746 
+2020-11-22 21:54:58.6577||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 7465 
+2020-11-22 21:54:58.6577||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4651 
+2020-11-22 21:54:58.6577||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:55:05.4413||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:55:05.4413||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5468 
+2020-11-22 21:55:05.4413||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4684 
+2020-11-22 21:55:05.4413||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6849 
+2020-11-22 21:55:05.4413||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8498 
+2020-11-22 21:55:05.4413||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4984 
+2020-11-22 21:55:05.4413||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9841 
+2020-11-22 21:55:05.4413||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:55:05.4413||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 546849841 
+2020-11-22 21:55:05.4413||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 21:55:09.5275||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:55:09.5275||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5468 
+2020-11-22 21:55:09.5275||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4684 
+2020-11-22 21:55:09.5275||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6849 
+2020-11-22 21:55:09.5275||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:57:45.6303||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:57:45.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9849 
+2020-11-22 21:57:45.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8491 
+2020-11-22 21:57:45.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4916 
+2020-11-22 21:57:45.6749||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9161 
+2020-11-22 21:57:45.6749||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1619 
+2020-11-22 21:57:45.6749||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6196 
+2020-11-22 21:57:45.6749||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:57:45.6749||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 984916196 
+2020-11-22 21:57:45.6749||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 21:57:48.5687||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:57:48.5687||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9849 
+2020-11-22 21:57:48.5687||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8491 
+2020-11-22 21:57:48.5687||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4916 
+2020-11-22 21:57:48.5687||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:58:00.4653||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:58:00.4653||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9849 
+2020-11-22 21:58:00.4653||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8491 
+2020-11-22 21:58:00.4701||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4916 
+2020-11-22 21:58:00.4701||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 21:58:06.1735||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:58:06.1735||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 21:58:06.1735||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:58:06.1735||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 21:58:06.1735||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 21:58:12.5995||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:58:12.5995||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 21:58:12.5995||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1112 
+2020-11-22 21:58:12.5995||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:58:12.5995||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 111111112 
+2020-11-22 21:58:12.5995||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 21:58:19.1257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:58:19.1257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8219 
+2020-11-22 21:58:19.1257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2198 
+2020-11-22 21:58:19.1257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1981 
+2020-11-22 21:58:19.1257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9813 
+2020-11-22 21:58:19.1257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8132 
+2020-11-22 21:58:19.1257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1322 
+2020-11-22 21:58:19.1257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 21:58:19.1257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 821981322 
+2020-11-22 21:58:19.1257||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 21:58:22.3420||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 21:58:22.3420||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8219 
+2020-11-22 21:58:22.3420||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2198 
+2020-11-22 21:58:22.3453||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1981 
+2020-11-22 21:58:22.3453||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 22:01:12.2584||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:01:12.2899||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1124 
+2020-11-22 22:01:12.2899||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1243 
+2020-11-22 22:01:12.2980||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2433 
+2020-11-22 22:01:12.2980||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4334 
+2020-11-22 22:01:12.2980||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3341 
+2020-11-22 22:01:12.2980||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:01:12.2980||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11243341 
+2020-11-22 22:01:12.2980||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 22:01:21.6025||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:01:21.6025||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1124 
+2020-11-22 22:01:21.6107||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1243 
+2020-11-22 22:01:21.6107||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2433 
+2020-11-22 22:01:21.6107||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 22:03:47.3151||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:03:47.3151||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8964 
+2020-11-22 22:03:47.3151||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9648 
+2020-11-22 22:03:47.3151||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6489 
+2020-11-22 22:03:47.3151||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4894 
+2020-11-22 22:03:47.3151||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8946 
+2020-11-22 22:03:47.3151||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9465 
+2020-11-22 22:03:47.3295||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:03:47.3295||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 896489465 
+2020-11-22 22:03:47.3295||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 22:03:56.7047||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:03:56.7047||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3213 
+2020-11-22 22:03:56.7047||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2131 
+2020-11-22 22:03:56.7047||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1318 
+2020-11-22 22:03:56.7047||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3186 
+2020-11-22 22:03:56.7047||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1861 
+2020-11-22 22:03:56.7047||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8616 
+2020-11-22 22:03:56.7047||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:03:56.7047||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 321318616 
+2020-11-22 22:03:56.7047||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 22:04:01.3280||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:04:01.3295||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3213 
+2020-11-22 22:04:01.3295||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2131 
+2020-11-22 22:04:01.3295||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1318 
+2020-11-22 22:04:01.3295||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 22:04:09.9829||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:04:09.9829||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3213 
+2020-11-22 22:04:09.9829||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2131 
+2020-11-22 22:04:09.9862||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1318 
+2020-11-22 22:04:09.9862||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 22:04:28.5701||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:04:28.5701||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3213 
+2020-11-22 22:04:28.5701||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 2131 
+2020-11-22 22:04:28.5701||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1318 
+2020-11-22 22:04:28.5792||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 22:04:50.5745||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:04:50.6048||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9873 
+2020-11-22 22:04:50.6048||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8732 
+2020-11-22 22:04:50.6123||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 7321 
+2020-11-22 22:04:50.6123||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3216 
+2020-11-22 22:04:50.6123||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2169 
+2020-11-22 22:04:50.6123||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1698 
+2020-11-22 22:04:50.6123||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:04:50.6123||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 987321698 
+2020-11-22 22:04:50.6123||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 22:04:57.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:04:57.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3229 
+2020-11-22 22:04:57.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2295 
+2020-11-22 22:04:57.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2952 
+2020-11-22 22:04:57.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9526 
+2020-11-22 22:04:57.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5262 
+2020-11-22 22:04:57.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 2623 
+2020-11-22 22:04:57.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:04:57.6632||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 322952623 
+2020-11-22 22:04:57.6733||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 22:05:16.9623||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:05:16.9623||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6481 
+2020-11-22 22:05:16.9623||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4818 
+2020-11-22 22:05:16.9623||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8188 
+2020-11-22 22:05:16.9623||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1884 
+2020-11-22 22:05:16.9623||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8848 
+2020-11-22 22:05:16.9623||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8480 
+2020-11-22 22:05:16.9623||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:05:16.9623||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 648188480 
+2020-11-22 22:05:16.9704||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 22:05:20.1314||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:05:20.1314||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6481 
+2020-11-22 22:05:20.1314||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4818 
+2020-11-22 22:05:20.1314||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 8188 
+2020-11-22 22:05:20.1314||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 22:06:35.3397||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:06:35.3397||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6498 
+2020-11-22 22:06:35.3462||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4987 
+2020-11-22 22:06:35.3462||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9871 
+2020-11-22 22:06:35.3462||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8712 
+2020-11-22 22:06:35.3462||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 7123 
+2020-11-22 22:06:35.3462||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1235 
+2020-11-22 22:06:35.3462||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:06:35.3462||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 649871235 
+2020-11-22 22:06:35.3462||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 22:06:43.8422||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:06:43.8422||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6438 
+2020-11-22 22:06:43.8457||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4387 
+2020-11-22 22:06:43.8457||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3871 
+2020-11-22 22:06:43.8457||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8713 
+2020-11-22 22:06:43.8457||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 7133 
+2020-11-22 22:06:43.8457||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1335 
+2020-11-22 22:06:43.8457||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:06:43.8457||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 643871335 
+2020-11-22 22:06:43.8457||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 22:06:53.1810||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:06:53.1810||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 22:06:53.1810||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:06:53.1897||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 22:06:53.1897||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 22:09:00.7742||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:09:00.8030||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5498 
+2020-11-22 22:09:00.8030||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4984 
+2020-11-22 22:09:00.8030||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9841 
+2020-11-22 22:09:00.8136||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 8416 
+2020-11-22 22:09:00.8136||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4161 
+2020-11-22 22:09:00.8136||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1616 
+2020-11-22 22:09:00.8136||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating always true validator based on appsetting configuration. 
+2020-11-22 22:09:00.8136||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 549841616 
+2020-11-22 22:09:00.8136||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 22:09:05.6333||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:09:05.6333||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5498 
+2020-11-22 22:09:05.6333||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4984 
+2020-11-22 22:09:05.6333||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9841 
+2020-11-22 22:09:05.6333||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 22:09:12.3465||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:09:12.3465||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5491 
+2020-11-22 22:09:12.3465||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4914 
+2020-11-22 22:09:12.3465||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9141 
+2020-11-22 22:09:12.3465||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1412 
+2020-11-22 22:09:12.3465||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4121 
+2020-11-22 22:09:12.3465||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1215 
+2020-11-22 22:09:12.3465||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating always true validator based on appsetting configuration. 
+2020-11-22 22:09:12.3465||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 549141215 
+2020-11-22 22:09:12.3465||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 22:15:03.3842||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:15:03.3842||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5491 
+2020-11-22 22:15:03.3934||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4914 
+2020-11-22 22:15:03.3934||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 9141 
+2020-11-22 22:15:03.3934||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1412 
+2020-11-22 22:15:03.3934||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4121 
+2020-11-22 22:15:03.3934||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1215 
+2020-11-22 22:15:03.3934||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating always true validator based on appsetting configuration. 
+2020-11-22 22:15:03.4078||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 549141215 
+2020-11-22 22:15:03.4078||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 22:15:06.4779||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:15:06.4779||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5491 
+2020-11-22 22:15:06.4779||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4914 
+2020-11-22 22:15:06.4779||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 9141 
+2020-11-22 22:15:06.4779||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 22:16:07.0587||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:16:07.0920||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4151 
+2020-11-22 22:16:07.1007||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1515 
+2020-11-22 22:16:07.1007||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5156 
+2020-11-22 22:16:07.1007||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1561 
+2020-11-22 22:16:07.1007||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5616 
+2020-11-22 22:16:07.1007||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6161 
+2020-11-22 22:16:07.1115||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:16:07.1115||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 415156161 
+2020-11-22 22:16:07.1115||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 22:16:15.6142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:16:15.6142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4151 
+2020-11-22 22:16:15.6142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1515 
+2020-11-22 22:16:15.6142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5156 
+2020-11-22 22:16:15.6142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1561 
+2020-11-22 22:16:15.6142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5616 
+2020-11-22 22:16:15.6142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6163 
+2020-11-22 22:16:15.6142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:16:15.6142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 415156163 
+2020-11-22 22:16:15.6142||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 22:16:19.8415||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:16:19.8415||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4151 
+2020-11-22 22:16:19.8446||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1515 
+2020-11-22 22:16:19.8446||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5156 
+2020-11-22 22:16:19.8446||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1561 
+2020-11-22 22:16:19.8446||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5616 
+2020-11-22 22:16:19.8446||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6162 
+2020-11-22 22:16:19.8446||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:16:19.8446||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 415156162 
+2020-11-22 22:16:19.8446||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 22:16:22.8102||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:16:22.8102||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4151 
+2020-11-22 22:16:22.8133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1515 
+2020-11-22 22:16:22.8133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5156 
+2020-11-22 22:16:22.8133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1561 
+2020-11-22 22:16:22.8133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5616 
+2020-11-22 22:16:22.8133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6161 
+2020-11-22 22:16:22.8133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:16:22.8133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 415156161 
+2020-11-22 22:16:22.8133||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 22:16:27.4125||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:16:27.4125||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4151 
+2020-11-22 22:16:27.4125||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1515 
+2020-11-22 22:16:27.4125||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5156 
+2020-11-22 22:16:27.4125||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1561 
+2020-11-22 22:16:27.4233||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5616 
+2020-11-22 22:16:27.4233||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6169 
+2020-11-22 22:16:27.4233||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:16:27.4233||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 415156169 
+2020-11-22 22:16:27.4233||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 22:21:31.4500||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:21:31.4822||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6546 
+2020-11-22 22:21:31.4870||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5464 
+2020-11-22 22:21:31.4870||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4646 
+2020-11-22 22:21:31.4870||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6464 
+2020-11-22 22:21:31.4870||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 6465 
+2020-11-22 22:21:31.4870||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 22:21:31.4870||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 654646465 
+2020-11-22 22:21:31.4870||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 22:21:35.1092||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 22:21:35.1112||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 6546 
+2020-11-22 22:21:47.0331||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5464 
+2020-11-22 22:21:50.7599||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4646 
+2020-11-22 22:21:50.7722||ERROR|LabGroup_Task.Services.Logger.NLogLogger|0 patterns found in cache, return error message. 
+2020-11-22 23:19:51.0464||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 23:19:51.0818||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 1111 
+2020-11-22 23:19:51.0818||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 23:19:51.0818||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 11111111 
+2020-11-22 23:19:51.0967||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: True 
+2020-11-22 23:19:54.5404||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 23:19:54.5404||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 1111 
+2020-11-22 23:19:54.5404||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 23:19:54.5404||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 111111111 
+2020-11-22 23:19:54.5404||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 23:19:58.3382||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 23:19:58.3382||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4534 
+2020-11-22 23:19:58.3382||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5345 
+2020-11-22 23:19:58.3382||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3453 
+2020-11-22 23:19:58.3454||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 4535 
+2020-11-22 23:19:58.3454||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 5353 
+2020-11-22 23:19:58.3454||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Key doesn't exist, adding to cache key: 3534 
+2020-11-22 23:19:58.3454||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Creating TFN validator based on appsetting configuration. 
+2020-11-22 23:19:58.3454||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Validating TFN: 453453534 
+2020-11-22 23:19:58.3454||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Result from TFN validation: False 
+2020-11-22 23:20:02.1216||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 23:20:02.1216||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4534 
+2020-11-22 23:20:02.1216||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5345 
+2020-11-22 23:20:02.1264||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3453 
+2020-11-22 23:20:02.1264||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
+2020-11-22 23:20:06.4335||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Calling validator factory to create validator. 
+2020-11-22 23:20:06.4335||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 4534 
+2020-11-22 23:20:06.4335||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 5345 
+2020-11-22 23:20:06.4335||DEBUG|LabGroup_Task.Services.Logger.NLogLogger|Pattern found in cache: 3453 
+2020-11-22 23:20:06.4387||ERROR|LabGroup_Task.Services.Logger.NLogLogger|3 patterns found in cache, return error message. 
